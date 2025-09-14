@@ -6,8 +6,7 @@ Não necessariamente existe uma ordem ou correlação direta entre as consultas,
 
 ## 📚 Da descrição do projeto
 
-Inicialmente, faz-se necessário o download do banco de dados a ser utilizado; neste caso, será o SQL Server 2022 Developer, o qual pode ser baixado por meio deste [link](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads?msockid=0ebd254409da6bd21228330908a36a31). 
-
+Inicialmente, faz-se necessário o download do banco de dados a ser utilizado; neste caso, será o SQL Server 2022 Developer, o qual pode ser baixado por meio deste [link](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads?msockid=0ebd254409da6bd21228330908a36a31).
 
 Segundo a própria Microsoft, é "[...] a edição gratuita e completa, licenciada para uso como banco de dados de desenvolvimento e teste em ambiente de não produção. [...]"
 
@@ -48,7 +47,7 @@ O resultado é esse:
 Por outro lado, podemos realizar consultas um pouco mais complexas - pesquisando as faixas de preço dos produtos postos à venda. Dessa vez, usaremos critérios para limitar a busca e utilizando-se da tabela "Production Product"; essa é a query a ser desenvolvida:
 
 **SELECT ProductNumber AS "Numero do produto", Name as "Nome do Produto", ListPrice as "Preço",
-"Faixa de preço" = 
+"Faixa de preço" =
 CASE WHEN ListPrice = 0 THEN 'Não disponível para venda'
 WHEN ListPrice < 50 THEN 'Abaixo de 50'
 WHEN ListPrice >= 50 AND ListPrice = 250 THEN 'Maior de 50 e igual a 250'
@@ -83,16 +82,26 @@ Teremos esse resultado:
 
 Em resumo, esse projeto teve como principais objetivos demonstrar algumas funcionalidades práticas do Microsoft SQL Server e como as queries podem ser úteis para a obtenção de insights e análises de cenários no contexto empresarial.
 
+## 📊 Resultados e Insights  
+
+As queries realizadas permitiram:  
+
+- Identificar os *10 produtos mais vendidos*, auxiliando em decisões de estoque;  
+- Mapear *clientes por região*, permitindo análises de mercado e estratégias de marketing;  
+- Calcular indicadores de *desempenho de vendas*, úteis para definição de metas;  
+- Demonstrar como consultas SQL podem gerar *insights rápidos e acionáveis* para a alta gestão.
+
 ## 🚀 Como executar
+
 1. Clone este repositório;
 2. Acesse [link](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads?msockid=0ebd254409da6bd21228330908a36a31) e baixe o SQL Server 2022 Developer;
 3. Baixar o [banco de dados de exemplo](https://learn.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver17) para realizarmos as consultas necessárias;
-4. Compare os resultados obtidos.  
+4. Compare os resultados obtidos.
 
 ## 🛠 Ferramentas utilizadas
 
-- **Microsoft SQL Server** → Consultas e filtros no banco de dados;  
-- **Markdown / GitHub** → Documentação e versionamento.  
+- **Microsoft SQL Server** → Consultas e filtros no banco de dados;
+- **Markdown / GitHub** → Documentação e versionamento.
 
 ## 💻 Autor / Contato
 
