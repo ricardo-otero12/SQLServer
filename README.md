@@ -3,7 +3,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-📖 ## Do breve resumo deste projeto:
+## 📖 Do breve resumo deste projeto:
 
 Neste projeto, analisei informações específicas do banco de dados de uma empresa fictícia chamada AdventureWorks. A partir disso, realizei algumas sintaxes para obter algumas informações diretamente do banco de dados, as quais podem subsidiar a tomada de decisão da alta direção da organização.
 
