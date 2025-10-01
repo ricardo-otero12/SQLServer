@@ -1,6 +1,11 @@
 # Microsoft SQL Server: consultas práticas
 
-📖 Neste projeto, analisei informações específicas do banco de dados de uma empresa fictícia chamada AdventureWorks. A partir disso, realizei algumas sintaxes para obter algumas informações diretamente do banco de dados, as quais podem subsidiar a tomada de decisão da alta direção da organização.
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+📖 ## Do breve resumo deste projeto:
+
+Neste projeto, analisei informações específicas do banco de dados de uma empresa fictícia chamada AdventureWorks. A partir disso, realizei algumas sintaxes para obter algumas informações diretamente do banco de dados, as quais podem subsidiar a tomada de decisão da alta direção da organização.
 
 Não necessariamente existe uma ordem ou correlação direta entre as consultas, mas diferentes possibilidades de obtenção das informações necessárias.
 
@@ -82,14 +87,14 @@ Teremos esse resultado:
 
 Em resumo, esse projeto teve como principais objetivos demonstrar algumas funcionalidades práticas do Microsoft SQL Server e como as queries podem ser úteis para a obtenção de insights e análises de cenários no contexto empresarial.
 
-## 📊 Resultados e Insights  
+## 📊 Resultados e Insights
 
-As queries realizadas permitiram:  
+As queries realizadas permitiram:
 
-- Identificar os *10 produtos mais vendidos*, auxiliando em decisões de estoque;  
-- Mapear *clientes por região*, permitindo análises de mercado e estratégias de marketing;  
-- Calcular indicadores de *desempenho de vendas*, úteis para definição de metas;  
-- Demonstrar como consultas SQL podem gerar *insights rápidos e acionáveis* para a alta gestão.
+- Identificar os _10 produtos mais vendidos_, auxiliando em decisões de estoque;
+- Mapear _clientes por região_, permitindo análises de mercado e estratégias de marketing;
+- Calcular indicadores de _desempenho de vendas_, úteis para definição de metas;
+- Demonstrar como consultas SQL podem gerar _insights rápidos e acionáveis_ para a alta gestão.
 
 ## 🚀 Como executar
 
@@ -100,11 +105,11 @@ As queries realizadas permitiram:
 
 ## 🛠 Ferramentas utilizadas
 
-- **Microsoft SQL Server** → Consultas e filtros no banco de dados;
-- **Markdown / GitHub** → Documentação e versionamento.
+- ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) → Consultas e filtros no banco de dados;
+- ![platform](https://img.shields.io/badge/platform-GitHub-lightgrey) → Documentação e versionamento.
 
 ## 💻 Autor / Contato
 
-[@ricardo-otero12](https://github.com/ricardo-otero12)
+Esse é o meu GitHub: ![platform](https://img.shields.io/badge/platform-GitHub-lightgrey)
 
 Procure-me no LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardogarcia56/)
