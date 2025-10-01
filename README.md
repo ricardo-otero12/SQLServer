@@ -99,7 +99,7 @@ As queries realizadas permitiram:
 ## 🚀 Como executar
 
 1. Clone este repositório;
-2. Acesse [link](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads?msockid=0ebd254409da6bd21228330908a36a31) e baixe o SQL Server 2022 Developer;
+2. Acesse esse [link](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads?msockid=0ebd254409da6bd21228330908a36a31) e baixe o SQL Server 2022 Developer;
 3. Baixar o [banco de dados de exemplo](https://learn.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver17) para realizarmos as consultas necessárias;
 4. Compare os resultados obtidos.
 
