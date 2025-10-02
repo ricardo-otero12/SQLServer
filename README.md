@@ -96,6 +96,10 @@ As queries realizadas permitiram:
 - Calcular indicadores de _desempenho de vendas_, úteis para definição de metas;
 - Demonstrar como consultas SQL podem gerar _insights rápidos e acionáveis_ para a alta gestão.
 
+🔔 Extensões e possibilidades de utilização desse projeto:
+
+Esse projeto pode ser utilizado em diversos contextos, principalmente se considerarmos o aspecto aqui apresentado: a busca e análise de informações constantes no banco de dados de uma companhia. Assim, por mais diverso que seja o core business, é possível extrair as informações necessárias e utili´zá-las na tomada de decisão do negócio.
+
 ## 🚀 Como executar
 
 1. Clone este repositório;
@@ -109,7 +113,5 @@ As queries realizadas permitiram:
 - ![platform](https://img.shields.io/badge/platform-GitHub-lightgrey) → Documentação e versionamento.
 
 ## 💻 Autor / Contato
-
-Esse é o meu GitHub: ![platform](https://img.shields.io/badge/platform-GitHub-lightgrey)
 
 Procure-me no LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardogarcia56/)
